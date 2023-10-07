@@ -29,12 +29,10 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 
 # Requisitos Funcionais 
 
-- [x] **Cadastrar Usuário**
-- [x] **Fazer Login**
-- [ ] Matricular em Curso
-- [ ] Cancelar Matricula
-- [ ] Visualizar Notas
-- [ ] Visualizar e Atualizar Informações do Estudante
+- [ ] Cadastrar Usuário
+- [ ] Fazer Login
+- [ ] Visualizar Datas de Voos
+- [ ] Check-list de viagens
 
 # Tecnologias Usadas
 
