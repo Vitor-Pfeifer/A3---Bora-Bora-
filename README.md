@@ -5,14 +5,6 @@ Projeto A3
 
 ![Capa do Projeto](https://picsum.photos/id/43/1280/831)
 
-![Capa do Projeto]{
-        id: 0,
-        author: Alejandro Escamilla,
-        width: 5616,
-        height: 3744,
-        url: https://unsplash.com/...,
-        download_url: [(https://picsum.photos/id/43/1280/831)]
-}
 
 
 
