@@ -3,7 +3,7 @@ Projeto A3
 # Bora Bora Viagens
 
 
-![Capa do Projeto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.excellenceclub.com.br%2Fsite%2Fpt%2Fblog%2Fcancun-e-um-sonho-estar-aqui&psig=AOvVaw3E-lDoTRqHfQDXVjPNsErZ&ust=1696795659130000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjYusbe5IEDFQAAAAAdAAAAABAE)
+![Capa do Projeto](https://picsum.photos/id/43/1280/831)
 
 
 
