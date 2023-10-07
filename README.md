@@ -33,6 +33,15 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 - [ ] Fazer Login
 - [ ] Visualizar Datas de Voos
 - [ ] Check-list de viagens
+- [ ]Cadastro de Usuário:
+- [ ]Pesquisa de Destinos:
+- [ ]Reserva de Passagens:
+- [ ]Reserva de Acomodações
+- [ ]Itinerários Personalizados:
+- [ ]Informações sobre Vistos e Documentos:
+- [ ]Integração de Pagamento:
+- [ ]Avaliações e Comentários:
+- [ ]Notificações de Viagem:
 
 # Tecnologias Usadas
 
