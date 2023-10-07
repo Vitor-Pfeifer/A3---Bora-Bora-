@@ -3,7 +3,7 @@ Projeto A3
 # Bora Bora Viagens
 
 
-![Capa do Projeto](https://picsum.photos/850/280!)
+![Capa do Projeto] (https://picsum.photos/seed/picsum/200/300)
 
 
 
