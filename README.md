@@ -5,7 +5,7 @@ Projeto A3
 
 ![Capa do Projeto] (https://picsum.photos/id/43/1280/831)
 
-)
+
 
 # Sobre o Projeto
 
