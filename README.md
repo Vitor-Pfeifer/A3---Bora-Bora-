@@ -3,7 +3,7 @@ Projeto A3
 # Bora Bora Viagens
 
 
-![Capa do Projeto](https://picsum.photos/id/43/1280/831)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c23247b2-023a-484f-84e2-b11dba5864a9)
 
 
 
