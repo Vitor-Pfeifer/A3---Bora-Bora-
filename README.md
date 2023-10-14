@@ -4,7 +4,7 @@ Projeto A3
 
 
 
-![Capa do Projeto]([https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/114116231/2385f2d4-eed5-4a58-9c7c-b13c53ecd29c)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/114116231/2385f2d4-eed5-4a58-9c7c-b13c53ecd29c)
 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c23247b2-023a-484f-84e2-b11dba5864a9)
 
