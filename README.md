@@ -32,8 +32,8 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 
 # Requisitos Funcionais 
 
-- [ ] Cadastro de Usuário
-- [ ] Fazer Login
+- [x] Cadastro de Usuário
+- [x] Fazer Login
 - [ ] Visualizar Datas de Voos
 - [ ] Check-list de viagens
 - [ ] Pesquisa de Destinos:
