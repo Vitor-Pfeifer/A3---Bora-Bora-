@@ -34,8 +34,8 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 
 - [x] Cadastro de Usuário
 - [x] Fazer Login
-- [ ] Visualizar Datas de Voos
-- [ ] Check-list de viagens
+- [x] Visualizar Datas de Voos
+- [x] Check-list de viagens
 - [ ] Pesquisa de Destinos:
 - [ ] Reserva de Passagens:
 - [ ] Reserva de Acomodações
