@@ -43,7 +43,7 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 - [ ] Informações sobre Vistos e Documentos:
 - [ ] Integração de Pagamento:
 - [ ] Avaliações e Comentários:
-- [ ] Notificações de Viagem:
+- [x] Notificações de Viagem:
 
 # Tecnologias Usadas
 
