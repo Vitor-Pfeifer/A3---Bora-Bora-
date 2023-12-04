@@ -45,11 +45,7 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 
 # Tecnologias Usadas
 
-- [Flutter](https://flutter.dev/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- [Figma](https://figma.com/)
 
 # Contribuição
 
