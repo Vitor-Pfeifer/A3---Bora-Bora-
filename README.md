@@ -14,9 +14,7 @@ Projeto A3
 # Sobre o Projeto
 
 Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o objetivo de facilitar a vida dos viajantes que desejam explorar destinos internacionais de forma mais conveniente e organizada. Nossa missão é proporcionar uma experiência de viagem excepcional aos usuários, ajudando-os a planejar, reservar e aproveitar ao máximo suas aventuras pelo mundo.
-<h4 align="center"> 
-	🚧  Em desenvolvimento . . .
-</h4>
+
 
 # Índice/Sumário
 
