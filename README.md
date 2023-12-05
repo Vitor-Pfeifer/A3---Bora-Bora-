@@ -108,7 +108,7 @@ Texto...
 <h4 align="center"><strong>Reserva de Passagens e Acomodações:</strong></h4>
  texto
  <!-- Informações sobre Vistos e Documentos: -->
-<h4 align="center"><strong>Informações sobre Vistos e Documentos:</strong</h>
+<h4 align="center"><strong>Informações sobre Vistos e Documentos:</strong</h4>
  texto
 
  <!-- Integração de Pagamento -->
