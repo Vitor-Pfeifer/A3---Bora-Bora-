@@ -98,16 +98,16 @@ Texto...
 <!-- Notificações de Viagem -->
 <p style="text-align: left;"><strong>Notificações de Viagem:</strong></p>
 <p style="text-align: left;">Persona: Ana</p>
-Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.
+Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
 
 <p style="text-align: left;">Persona: Marcela</p>
-Marcela ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie seus compromissos no café, garantindo que sua ausência não afete negativamente as operações.
+Marcela ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie seus compromissos no café, garantindo que sua ausência não afete negativamente as operações.</p>
 
 <p style="text-align: left;">Persona: Lucas</p>
-Lucas ativa as notificações de viagem para se manter informado sobre datas importantes e status de voos. Isso permite que ele gerencie seu tempo de forma eficiente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.
+Lucas ativa as notificações de viagem para se manter informado sobre datas importantes e status de voos. Isso permite que ele gerencie seu tempo de forma eficiente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
 
 <p style="text-align: left;">Persona: Eduardo</p>
-Eduardo ativa as notificações de viagem no sistema. Ele recebe alertas sobre datas importantes, status de voos e informações relevantes para garantir uma viagem suave. As notificações mantêm Eduardo informado durante todo o processo.
+Eduardo ativa as notificações de viagem no sistema. Ele recebe alertas sobre datas importantes, status de voos e informações relevantes para garantir uma viagem suave. As notificações mantêm Eduardo informado durante todo o processo.</p>
 
 
 # Tecnologias Usadas
