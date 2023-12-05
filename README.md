@@ -102,6 +102,8 @@ Texto...
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
 <!--Pesquisa de Destinos: -->
+<h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
+ texto
 
  <!-- Integração de Pagamento -->
 <h4 align="center"><strong>Integração de Pagamento:</strong></h4>
