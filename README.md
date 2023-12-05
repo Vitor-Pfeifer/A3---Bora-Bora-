@@ -28,7 +28,9 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 - [x] Integração de Pagamento:
 - [x] Notificações de Viagem:
 
-# Cadastro de Usuário: 
+<h4 align="center"> 
+ Cadastro de Usuário:
+  h4>
 Permite que novos usuários se inscrevam no sistema fornecendo informações básicas, como nome, endereço de e-mail, senha, informações de contato, entre outros dados relevantes para criar uma conta no sistema.
 
 # Fazer Login:
