@@ -103,10 +103,21 @@ Texto...
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
 <!--Pesquisa de Destinos: -->
 <h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
- texto
+<p style="text-align: left;">Persona: Eduardo</p>
+<p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
+<p style="text-align: left;">Persona: Lucas</p>
+<p style="text-align: left;">Lucas, em busca de inspiração para seus designs, utiliza a pesquisa de destinos para explorar locais únicos e culturas diversas. O sistema oferece sugestões personalizadas, ajudando Lucas a encontrar destinos que estimulem sua criatividade.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Marcela, pensando em novas inspirações para a decoração de seu café, utiliza a pesquisa de destinos para explorar locais com estilos de design únicos. O sistema fornece sugestões personalizadas, inspirando Marcela em suas escolhas de decoração.</p>
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Ana, em busca de novas perspectivas para suas campanhas de marketing, utiliza a pesquisa de destinos para explorar lugares inspiradores. O sistema fornece sugestões personalizadas, inspirando Ana em suas estratégias criativas.</p>
 <!-- Reserva de Passagens e Acomodações -->
 <h4 align="center"><strong>Reserva de Passagens e Acomodações:</strong></h4>
  texto
+<!-- Informações sobre Vistos e Documentos: -->
+<h4 align="center"><strong>Informações sobre Vistos e Documentos:</strong></h4>
+ texto
+
 <!-- Integração de Pagamento -->
 <h4 align="center"><strong>Integração de Pagamento:</strong></h4>
 <p style="text-align: left;">Persona: Ana</p>
