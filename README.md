@@ -32,35 +32,44 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
  Cadastro de Usuário:
   </h4>
 Permite que novos usuários se inscrevam no sistema fornecendo informações básicas, como nome, endereço de e-mail, senha, informações de contato, entre outros dados relevantes para criar uma conta no sistema.
-
-# Fazer Login:
+<h4 align="center"> 
+Fazer Login:
+</h4>
 Oferece aos usuários registrados a capacidade de acessar o sistema, inserindo suas credenciais (por exemplo, e-mail e senha) para verificar sua identidade e obter acesso às funcionalidades do sistema.
-
-# Visualizar Datas de Voos:
+<h4 align="center"> 
+ Visualizar Datas de Voos:
+</h4>
 Permite aos usuários visualizar um calendário ou lista de datas disponíveis para voos. Isso pode incluir informações sobre horários de partida e chegada, companhias aéreas, escalas, preços e disponibilidade de assentos.
-
-# Check-list de viagens:
+<h4 align="center"> 
+Check-list de viagens:
+</h4>
 Oferece aos usuários a capacidade de criar e gerenciar listas de verificação personalizadas para suas viagens. Isso pode incluir itens como documentos necessários, itens a serem empacotados, compromissos importantes, entre outros.
-
-# Pesquisa de Destinos: 
+<h4 align="center"> 
+Pesquisa de Destinos:
+</h4>
 Fornece aos usuários a capacidade de pesquisar destinos disponíveis. Isso pode incluir informações sobre atrações turísticas, clima, custo de vida, opções de transporte local e outros detalhes relevantes sobre o local.
-
-# Reserva de Passagens: 
+<h4 align="center"> 
+Reserva de Passagens:
+</h4>
 Permite aos usuários buscar, selecionar e reservar passagens aéreas para suas viagens. Isso pode incluir escolha de destino, datas de viagem, seleção de assentos e processamento de pagamento.
-
-# Reserva de Acomodações:
+<h4 align="center"> 
+Reserva de Acomodações:
+</h4>
 Oferece aos usuários a capacidade de pesquisar, selecionar e reservar acomodações, como hotéis, pousadas ou aluguéis de temporada, para suas estadias durante a viagem.
-
-#Informações sobre Vistos e Documentos: 
+<h4 align="center"> 
+Informações sobre Vistos e Documentos:
+</h4>
 Fornece informações detalhadas sobre os requisitos de visto, documentos necessários e outras formalidades legais para os destinos escolhidos pelos usuários.
-
-# Integração de Pagamento: 
+<h4 align="center"> 
+Integração de Pagamento:
+</h4>
 Permite aos usuários realizar transações financeiras seguras para pagamento de passagens, reservas de acomodações, taxas de visto, entre outros serviços relacionados à viagem, utilizando métodos de pagamento seguros e confiáveis.
-
-# Notificações de Viagem: 
+<h4 align="center"> 
+Notificações de Viagem:
+</h4>
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
 
-# Tecnologias Usadas
+Tecnologias Usadas
 
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
