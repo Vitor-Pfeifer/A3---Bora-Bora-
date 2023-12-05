@@ -72,7 +72,12 @@ Notificações de Viagem:
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
 
 # Personas
-Texto...
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/2d93094a-af2f-4adc-add4-8e711684e019)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c3486f26-0632-4e3b-8c02-bbcd411b3480)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/cff7f73b-e72d-47b7-98cb-1a5cfcf6770b)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/e14d6531-28b6-439c-8d80-c5ae9765e824)
+
+
 # Cenários
 <!--Castro De Usuario -->
 <h4 align="center"><strong>Cadastro de Usuário e Login:</strong></h4>
