@@ -47,5 +47,5 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 - [Xtension](https://xtensio.com/user-persona-template/)
   
 # System Usability Scale (SUS)
-(https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/4e9dcb05-6533-4b30-9e15-6444529fe0ca)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/4e9dcb05-6533-4b30-9e15-6444529fe0ca)
 
