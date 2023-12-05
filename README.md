@@ -183,6 +183,7 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/e00733f3-88ea-4f12-9121-65c69f8942af)
 
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/5c7d711c-4a12-497d-b870-b3a24cccdb57)
 
 
 # Tecnologias Usadas
