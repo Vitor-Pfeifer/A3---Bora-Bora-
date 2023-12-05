@@ -74,25 +74,27 @@ Oferece aos usuários atualizações e lembretes sobre suas viagens, como horár
 # Personas
 Texto...
 # Cenários
+<!--Castro De Usuario -->
 <p style="text-align: left;"><strong>Cadastro de Usuário e Login:</strong></p>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar o novo sistema de viagens para planejar suas férias. Ele realiza o cadastro de usuário, preenchendo informações básicas. Ao retornar, faz o login facilmente, sem complicações. O sistema mantém suas informações seguras e oferece uma experiência de usuário intuitiva.</p>
 
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, em busca de novas perspectivas para seus designs, utiliza o sistema para explorar datas de voos. A interface intuitiva exibe opções de voos, permitindo a Lucas escolher as datas que melhor se alinham com seus planos criativos.</p>
-
+<!--Check-list de Viagens -->
 <p style="text-align: left;"><strong>Check-list de Viagens:</strong></p>
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
-
+<!-- Pesquisa de Destinos -->
 <p style="text-align: left;"><strong>Pesquisa de Destinos:</strong></p>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
-
+<!-- Notificações de Viagem -->
 <p style="text-align: left;"><strong>Notificações de Viagem:</strong></p>
 <p style="text-align: left;">Persona: Ana</p>
 Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.
 
+<p style="text-align: left;"><strong>Notificações de Viagem:</strong></p>
 
 
 # Tecnologias Usadas
