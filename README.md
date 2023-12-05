@@ -95,6 +95,8 @@ Texto...
 <p style="text-align: left;">Lucas, em busca de novas perspectivas para seus designs, utiliza o sistema para explorar datas de voos. A interface intuitiva exibe opções de voos, permitindo a Lucas escolher as datas que melhor se alinham com seus planos criativos.</p>
 <p style="text-align: left;">Persona: Marcela</p>
 <p style="text-align: left;">Marcela, em busca de inspirações para novas receitas de café, acessa o sistema para explorar datas de voos. A interface do sistema exibe opções de voos, permitindo que Marcela escolha as datas que melhor se alinham com seu desejo de pesquisa gastronômica.</p>
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Ana, em busca de inspirações para suas campanhas de marketing, acessa o sistema para explorar datas de voos. A interface do sistema exibe opções de voos, permitindo que Ana escolha as datas que melhor se alinham com sua necessidade de pesquisa e planejamento.</p>
 <!--Check-list de Viagens -->
 <h4 align="center"><strong>Check-list de Viagens:</strong></h4>
 <p style="text-align: left;">Persona: Lucas</p>
