@@ -76,7 +76,7 @@ Oferece aos usuários atualizações e lembretes sobre suas viagens, como horár
 # Personas
 Texto...
 # Cenários
-<p style="text-align: left;"><strong>Cadastro de Usuário e Login:</strong></p>
+<h4 align="center"> <strong>Cadastro de Usuário e Login:</strong></h4>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar o novo sistema de viagens para planejar suas férias. Ele realiza o cadastro de usuário, preenchendo informações básicas. Ao retornar, faz o login facilmente, sem complicações. O sistema mantém suas informações seguras e oferece uma experiência de usuário intuitiva.</p>
 
