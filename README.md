@@ -96,7 +96,7 @@ Texto...
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
 <!-- Notificações de Viagem -->
-<p style="text-align: left;"><strong>Notificações de Viagem:</strong></p>
+<h4 align="center"> <strong>Notificações de Viagem:</strong></h4>
 <p style="text-align: left;">Persona: Ana</p>
 Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
 
