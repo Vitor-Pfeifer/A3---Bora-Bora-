@@ -46,18 +46,5 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
   
-# Contribuição
+# System Usability Scale (SUS)
 
-Leia o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) para saber detalhes sobre o nosso código de conduta e o processo de envio de solicitações *pull* (*Pull Request*) para nós.
-
-# Autores
-
-[Exemplo](https://github.com/testing-library/react-testing-library#contributors)
-
-# Licença
-
-Este projeto está licenciado sob a Licença MIT,  consulte o arquivo [LICENSE.md](LICENSE.md) para mais detalhes.
-
-# Agradecimentos
-
-Seção livre para você agradecer a todos que contribuiram para a execução do seu projeto.
