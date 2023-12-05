@@ -30,7 +30,7 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 
 <h4 align="center"> 
  Cadastro de Usuário:
-  h4>
+  </h4>
 Permite que novos usuários se inscrevam no sistema fornecendo informações básicas, como nome, endereço de e-mail, senha, informações de contato, entre outros dados relevantes para criar uma conta no sistema.
 
 # Fazer Login:
