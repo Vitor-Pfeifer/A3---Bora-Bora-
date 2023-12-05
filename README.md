@@ -81,6 +81,12 @@ Texto...
 
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, em busca de novas perspectivas para seus designs, utiliza o sistema para explorar datas de voos. A interface intuitiva exibe opções de voos, permitindo a Lucas escolher as datas que melhor se alinham com seus planos criativos.</p>
+
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Ana, a profissional dedicada do marketing, decide usar o sistema para planejar suas férias e desconectar um pouco do trabalho. Ela realiza o cadastro de usuário de maneira rápida, inserindo as informações essenciais. Ao retornar, faz login facilmente, aproveitando a praticidade do sistema.</p>
+
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Marcela, a empreendedora de um café, decide usar o sistema para planejar suas próximas férias e descansar um pouco. Ela realiza o cadastro de usuário de maneira rápida, inserindo informações essenciais. Ao retornar, faz login facilmente, aproveitando a facilidade do sistema.</p>
 <!--Check-list de Viagens -->
 <p style="text-align: left;"><strong>Check-list de Viagens:</strong></p>
 <p style="text-align: left;">Persona: Lucas</p>
