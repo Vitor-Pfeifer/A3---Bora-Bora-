@@ -173,7 +173,11 @@ Marcela ativa as notificações de viagem para se manter informada sobre datas i
 <p style="text-align: left;">Persona: Ana</p>
 Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
 
+# Protótipos 
 
+<h4 align="center"><strong>Protótipos de Baixa Fidelidade (lo-fi)</strong></h4>
+
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/63b472b9-c82c-46da-84ac-e4f289852d21)
 
 
 
