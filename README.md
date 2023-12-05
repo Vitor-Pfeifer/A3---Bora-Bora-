@@ -101,10 +101,12 @@ Texto...
 <h4 align="center"><strong>Check-list de Viagens:</strong></h4>
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
-<!-- Pesquisa de Destinos -->
-<h4 align="center"><strong>Pesquisa de Destinos:</strong></h4>
-<p style="text-align: left;">Persona: Eduardo</p>
-<p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
+<!--Pesquisa de Destinos: -->
+<h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
+<!-- Reserva de Passagens e Acomodações -->
+<h4 align="center"><strong>Reserva de Passagens e Acomodações</h4>
+<!-- Integração de Pagamento -->
+<h4 align="center"><strong>Integração de Pagamento:</h>
 <!-- Notificações de Viagem -->
 <h4 align="center"> <strong>Notificações de Viagem:</strong></h4>
 <p style="text-align: left;">Persona: Ana</p>
