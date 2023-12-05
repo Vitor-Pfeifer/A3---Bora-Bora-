@@ -88,7 +88,7 @@ Lucas, em busca de novas perspectivas para seus designs, utiliza o sistema para 
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
 
-<p style="text-align: left;"><strong>Pesquisa de Destinos:</p>
+<p style="text-align: left;"><strong>Pesquisa de Destinos:</strong></p>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
 
