@@ -75,7 +75,7 @@ Oferece aos usuários atualizações e lembretes sobre suas viagens, como horár
 Texto...
 # Cenários
 <!--Castro De Usuario -->
-<p style="text-align: left;"><strong>Cadastro de Usuário e Login:</strong></p>
+<h4 align="center"><strong>Cadastro de Usuário e Login:</strong></h4>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar o novo sistema de viagens para planejar suas férias. Ele realiza o cadastro de usuário, preenchendo informações básicas. Ao retornar, faz o login facilmente, sem complicações. O sistema mantém suas informações seguras e oferece uma experiência de usuário intuitiva.</p>
 
@@ -88,11 +88,11 @@ Texto...
 <p style="text-align: left;">Persona: Marcela</p>
 <p style="text-align: left;">Marcela, a empreendedora de um café, decide usar o sistema para planejar suas próximas férias e descansar um pouco. Ela realiza o cadastro de usuário de maneira rápida, inserindo informações essenciais. Ao retornar, faz login facilmente, aproveitando a facilidade do sistema.</p>
 <!--Check-list de Viagens -->
-<p style="text-align: left;"><strong>Check-list de Viagens:</strong></p>
+<h4 align="center"><strong>Check-list de Viagens:</strong></h4>
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
 <!-- Pesquisa de Destinos -->
-<p style="text-align: left;"><strong>Pesquisa de Destinos:</strong></p>
+<h4 align="center"><strong><strong>Pesquisa de Destinos:</strong></h4>
 <p style="text-align: left;">Persona: Eduardo</p>
 <p style="text-align: left;">Eduardo decide explorar destinos para suas férias. Utilizando a pesquisa de destinos, ele filtra por interesses e preferências pessoais. O sistema apresenta sugestões personalizadas, facilitando a escolha do destino ideal.</p>
 <!-- Notificações de Viagem -->
