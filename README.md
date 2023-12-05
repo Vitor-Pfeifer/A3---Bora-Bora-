@@ -87,6 +87,14 @@ Texto...
 
 <p style="text-align: left;">Persona: Marcela</p>
 <p style="text-align: left;">Marcela, a empreendedora de um café, decide usar o sistema para planejar suas próximas férias e descansar um pouco. Ela realiza o cadastro de usuário de maneira rápida, inserindo informações essenciais. Ao retornar, faz login facilmente, aproveitando a facilidade do sistema.</p>
+<!-- Visualizar Datas de Voos -->
+<h4 align="center"><strong>Visualizar Datas de Voos</strong></h4>
+<p style="text-align: left;">Persona: Eduardo</p>
+<p style="text-align: left;">Eduardo, ansioso para planejar sua viagem, acessa o sistema para visualizar as datas de voos disponíveis. A interface exibe claramente as opções de voos, permitindo a Eduardo selecionar as datas mais convenientes para ele.</p>
+<p style="text-align: left;">Persona: Lucas</p>
+<p style="text-align: left;">Lucas, em busca de novas perspectivas para seus designs, utiliza o sistema para explorar datas de voos. A interface intuitiva exibe opções de voos, permitindo a Lucas escolher as datas que melhor se alinham com seus planos criativos.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Marcela, em busca de inspirações para novas receitas de café, acessa o sistema para explorar datas de voos. A interface do sistema exibe opções de voos, permitindo que Marcela escolha as datas que melhor se alinham com seu desejo de pesquisa gastronômica.</p>
 <!--Check-list de Viagens -->
 <h4 align="center"><strong>Check-list de Viagens:</strong></h4>
 <p style="text-align: left;">Persona: Lucas</p>
