@@ -104,8 +104,10 @@ Texto...
 <!--Pesquisa de Destinos: -->
 <h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
  texto
-
- <!-- Integração de Pagamento -->
+<!-- Reserva de Passagens e Acomodações -->
+<h4 align="center"><strong>Reserva de Passagens e Acomodações:</strong></h4>
+ texto
+<!-- Integração de Pagamento -->
 <h4 align="center"><strong>Integração de Pagamento:</strong></h4>
 <p style="text-align: left;">Persona: Ana</p>
 Ao realizar a reserva de suas passagens e acomodações, Ana aproveita a integração de pagamento do sistema. A operação é concluída de forma rápida e transparente, proporcionando a Ana a segurança de que sua transação foi bem-sucedida.</p>
