@@ -143,31 +143,40 @@ Texto...
 
 <!-- Integração de Pagamento -->
 <h4 align="center"><strong>Integração de Pagamento:</strong></h4>
-<p style="text-align: left;">Persona: Ana</p>
-Ao realizar a reserva de suas passagens e acomodações, Ana aproveita a integração de pagamento do sistema. A operação é concluída de forma rápida e transparente, proporcionando a Ana a segurança de que sua transação foi bem-sucedida.</p>
-
-<p style="text-align: left;">Persona: Marcela</p>
-Ao concluir a reserva de passagens e acomodações, Marcela utiliza a funcionalidade de integração de pagamento do sistema. O processo é eficiente e transparente, transmitindo a Marcela a confiança de que a transação foi concluída com sucesso.</p>
-
-<p style="text-align: left;">Persona: Lucas</p>
-Efetuando a reserva de suas passagens e acomodações, Lucas se beneficia da integração de pagamento do sistema. A experiência é rápida e transparente, gerando confiança em Lucas de que sua transação foi executada com sucesso.</p>
 
 <p style="text-align: left;">Persona: Eduardo</p>
 No momento de reservar suas passagens e acomodações, Eduardo utiliza a integração de pagamento do sistema. O processo é seguro e claro, proporcionando a Eduardo a confiança necessária ao realizar o pagamento online.</p>
 
-<!-- Notificações de Viagem -->
-<h4 align="center"><strong>Notificações de Viagem:</strong></h4>
-<p style="text-align: left;">Persona: Ana</p>
-Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
+<p style="text-align: left;">Persona: Lucas</p>
+Efetuando a reserva de suas passagens e acomodações, Lucas se beneficia da integração de pagamento do sistema. A experiência é rápida e transparente, gerando confiança em Lucas de que sua transação foi executada com sucesso.</p>
 
 <p style="text-align: left;">Persona: Marcela</p>
-Marcela ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie seus compromissos no café, garantindo que sua ausência não afete negativamente as operações.</p>
+Ao concluir a reserva de passagens e acomodações, Marcela utiliza a funcionalidade de integração de pagamento do sistema. O processo é eficiente e transparente, transmitindo a Marcela a confiança de que a transação foi concluída com sucesso.</p>
+
+<p style="text-align: left;">Persona: Ana</p>
+Ao realizar a reserva de suas passagens e acomodações, Ana aproveita a integração de pagamento do sistema. A operação é concluída de forma rápida e transparente, proporcionando a Ana a segurança de que sua transação foi bem-sucedida.</p>
+
+
+
+<!-- Notificações de Viagem -->
+<h4 align="center"><strong>Notificações de Viagem:</strong></h4>
+
+<p style="text-align: left;">Persona: Eduardo</p>
+Eduardo ativa as notificações de viagem no sistema. Ele recebe alertas sobre datas importantes, status de voos e informações relevantes para garantir uma viagem suave. As notificações mantêm Eduardo informado durante todo o processo.</p>
 
 <p style="text-align: left;">Persona: Lucas</p>
 Lucas ativa as notificações de viagem para se manter informado sobre datas importantes e status de voos. Isso permite que ele gerencie seu tempo de forma eficiente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
 
-<p style="text-align: left;">Persona: Eduardo</p>
-Eduardo ativa as notificações de viagem no sistema. Ele recebe alertas sobre datas importantes, status de voos e informações relevantes para garantir uma viagem suave. As notificações mantêm Eduardo informado durante todo o processo.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+Marcela ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie seus compromissos no café, garantindo que sua ausência não afete negativamente as operações.</p>
+
+<p style="text-align: left;">Persona: Ana</p>
+Ana ativa as notificações de viagem para se manter informada sobre datas importantes e status de voos. Isso permite que ela gerencie sua equipe remotamente, garantindo que suas responsabilidades profissionais não sejam comprometidas durante a viagem.</p>
+
+
+
+
+
 
 
 # Tecnologias Usadas
