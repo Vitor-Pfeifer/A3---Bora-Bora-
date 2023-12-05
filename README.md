@@ -105,10 +105,10 @@ Texto...
 <h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
  texto
 <!-- Reserva de Passagens e Acomodações -->
-<h4 align="center"><strong>Reserva de Passagens e Acomodações</h4>
+<h4 align="center"><strong>Reserva de Passagens e Acomodações:<strong></h4>
  texto
  <!-- Informações sobre Vistos e Documentos: -->
-<h4 align="center"><strong>Informações sobre Vistos e Documentos:</h>
+<h4 align="center"><strong>Informações sobre Vistos e Documentos:<strong></h>
  texto
 
  <!-- Integração de Pagamento -->
