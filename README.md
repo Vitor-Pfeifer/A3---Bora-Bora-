@@ -12,6 +12,8 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Personas](#personas)
+* [Cenarios](#cenários)
 * [Tecnologias Usadas](#tecnologias-usadas)
 
 
@@ -68,8 +70,17 @@ Permite aos usuários realizar transações financeiras seguras para pagamento d
 Notificações de Viagem:
 </h4>
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
+# Personas
+
 
 # Tecnologias Usadas
+Texto...
+# Cenários
+#Cadastro de Usuário e Login:#
+Persona: Eduardo
+Eduardo decide explorar o novo sistema de viagens para planejar suas férias. Ele realiza o cadastro de usuário, preenchendo informações básicas. Ao retornar, faz o login facilmente, sem complicações. O sistema mantém suas informações seguras e oferece uma experiência de usuário intuitiva.
+
+
 
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
