@@ -1,16 +1,7 @@
 # A3---Bora-Bora-
 Projeto A3 
 # Bora Bora Viagens
-
-
-
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147009537/72251c50-c738-4e60-b18b-f310b3749cb0)
-
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c23247b2-023a-484f-84e2-b11dba5864a9)
-
-
-
-
 # Sobre o Projeto
 
 Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o objetivo de facilitar a vida dos viajantes que desejam explorar destinos internacionais de forma mais conveniente e organizada. Nossa missão é proporcionar uma experiência de viagem excepcional aos usuários, ajudando-os a planejar, reservar e aproveitar ao máximo suas aventuras pelo mundo.
