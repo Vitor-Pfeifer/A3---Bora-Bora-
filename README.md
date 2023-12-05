@@ -179,6 +179,8 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/63b472b9-c82c-46da-84ac-e4f289852d21)
 
+<h4 align="center"><strong>Protótipos de Alta Fidelidade (hi-fi)</strong></h4>
+
 
 
 
