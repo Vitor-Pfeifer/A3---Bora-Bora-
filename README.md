@@ -99,8 +99,16 @@ Texto...
 <p style="text-align: left;">Ana, em busca de inspirações para suas campanhas de marketing, acessa o sistema para explorar datas de voos. A interface do sistema exibe opções de voos, permitindo que Ana escolha as datas que melhor se alinham com sua necessidade de pesquisa e planejamento.</p>
 <!--Check-list de Viagens -->
 <h4 align="center"><strong>Check-list de Viagens:</strong></h4>
+<p style="text-align: left;">Persona: Eduardo</p>
+<p style="text-align: left;">Eduardo, planejando sua viagem, utiliza o check-list de viagens do sistema. Ele marca os itens essenciais para garantir uma viagem tranquila, como documentos, bagagem, etc. O sistema ajuda Eduardo a manter tudo organizado e a evitar esquecimentos.</p>
 <p style="text-align: left;">Persona: Lucas</p>
 <p style="text-align: left;">Lucas, que precisa gerenciar seu tempo com eficiência, utiliza o check-list de viagens do sistema para organizar sua viagem de forma rápida. Ele marca os itens essenciais, garantindo que sua experiência de viagem seja planejada de maneira eficiente.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Marcela, que precisa equilibrar as responsabilidades do café e da vida pessoal, utiliza o check-list de viagens do sistema para organizar sua jornada. Ela marca os itens essenciais, garantindo que sua viagem seja relaxante e bem planejada.</p>
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Ana, que precisa gerenciar sua equipe e equilibrar responsabilidades domésticas, utiliza o check-list de viagens do sistema para organizar sua jornada. Ela marca os itens essenciais, garantindo que sua viagem seja planejada eficientemente, permitindo-lhe focar em sua família.</p>
+
+
 <!--Pesquisa de Destinos: -->
 <h4 align="center"><strong>Pesquisa de Destinos</strong></h4>
 <p style="text-align: left;">Persona: Eduardo</p>
@@ -113,10 +121,25 @@ Texto...
 <p style="text-align: left;">Ana, em busca de novas perspectivas para suas campanhas de marketing, utiliza a pesquisa de destinos para explorar lugares inspiradores. O sistema fornece sugestões personalizadas, inspirando Ana em suas estratégias criativas.</p>
 <!-- Reserva de Passagens e Acomodações -->
 <h4 align="center"><strong>Reserva de Passagens e Acomodações:</strong></h4>
- texto
+<p style="text-align: left;">Persona: Eduardo</p>
+<p style="text-align: left;">Após decidir o destino, Eduardo utiliza o sistema para reservar suas passagens e acomodações. O processo é simples e eficiente, proporcionando a Eduardo uma experiência de reserva sem complicações.</p>
+<p style="text-align: left;">Persona: Lucas</p>
+<p style="text-align: left;">Após decidir o destino, Lucas utiliza o sistema para reservar suas passagens e acomodações. A eficiência do processo permite que Lucas se concentre em seu trabalho, sabendo que sua viagem está planejada sem complicações.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Após decidir o destino, Marcela utiliza o sistema para reservar suas passagens e acomodações. O processo é eficiente, permitindo que Marcela se concentre em seu café, sabendo que sua viagem está organizada.</p>
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Após decidir o destino, Ana utiliza o sistema para reservar suas passagens e acomodações. A eficiência do processo permite que Ana se concentre em suas tarefas profissionais, sabendo que sua viagem está organizada sem complicações.</p>
+
 <!-- Informações sobre Vistos e Documentos: -->
 <h4 align="center"><strong>Informações sobre Vistos e Documentos:</strong></h4>
- texto
+<p style="text-align: left;">Persona: Eduardo</p>
+<p style="text-align: left;">Antes da viagem, Eduardo verifica as informações sobre vistos e documentos necessários. O sistema fornece informações precisas e atualizadas, ajudando Eduardo a preparar toda a documentação necessária para a viagem.</p>
+<p style="text-align: left;">Persona: Lucas</p>
+<p style="text-align: left;">Antes da viagem, Lucas verifica as informações sobre vistos e documentos no sistema. As informações claras e concisas ajudam Lucas a preparar-se adequadamente, garantindo que ele esteja pronto para a viagem sem interrupções.</p>
+<p style="text-align: left;">Persona: Marcela</p>
+<p style="text-align: left;">Antes da viagem, Marcela verifica as informações sobre vistos e documentos necessários no sistema. As informações claras e concisas ajudam Marcela a preparar-se adequadamente, garantindo uma viagem sem contratempos.</p>
+<p style="text-align: left;">Persona: Ana</p>
+<p style="text-align: left;">Antes da viagem, Ana verifica as informações sobre vistos e documentos necessários no sistema. As informações claras e concisas ajudam Ana a se preparar adequadamente, garantindo que sua viagem ocorra sem contratempos.</p>
 
 <!-- Integração de Pagamento -->
 <h4 align="center"><strong>Integração de Pagamento:</strong></h4>
@@ -131,7 +154,6 @@ Efetuando a reserva de suas passagens e acomodações, Lucas se beneficia da int
 
 <p style="text-align: left;">Persona: Eduardo</p>
 No momento de reservar suas passagens e acomodações, Eduardo utiliza a integração de pagamento do sistema. O processo é seguro e claro, proporcionando a Eduardo a confiança necessária ao realizar o pagamento online.</p>
-
 
 <!-- Notificações de Viagem -->
 <h4 align="center"><strong>Notificações de Viagem:</strong></h4>
