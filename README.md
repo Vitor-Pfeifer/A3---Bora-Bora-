@@ -73,11 +73,10 @@ Notificações de Viagem:
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
 
 # Personas
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/2d93094a-af2f-4adc-add4-8e711684e019)
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c3486f26-0632-4e3b-8c02-bbcd411b3480)
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/cff7f73b-e72d-47b7-98cb-1a5cfcf6770b)
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/e14d6531-28b6-439c-8d80-c5ae9765e824)
-
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/5606316c-ebd4-46cf-9fe9-63ae102e8112)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/79cac127-18dc-47d0-b85d-9475f58422e9)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/16439b26-e71e-464d-9e55-52d60dd32f98)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/920a80f4-0172-4c45-9456-2b0bdac4e161)
 
 # Cenários
 <!--Castro De Usuario -->
@@ -188,9 +187,7 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 <h4 align="center"><strong>Protótipos de Alta Fidelidade (hi-fi)</strong></h4>
 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/0c1d8654-6fe7-45a1-80a3-a2cc874c037d)
-
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/ff80c9cb-f5bd-4f78-815e-0f7fcc4970f4)
-
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/b1bca1b3-91ac-46eb-8a9a-a50371282889)
 
 # Tecnologias Usadas
