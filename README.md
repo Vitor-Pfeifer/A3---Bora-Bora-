@@ -194,6 +194,3 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
   
-# System Usability Scale (SUS)
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/4e9dcb05-6533-4b30-9e15-6444529fe0ca)
-
