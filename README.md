@@ -14,7 +14,9 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Personas](#personas)
 * [Cenarios](#cenários)
+* [Protótipos](#protótipos)
 * [Tecnologias Usadas](#tecnologias-usadas)
+* [System Usability Scale (SUS)](#System-Usability-Scale-(SUS))
 
 
 # Requisitos Funcionais 
