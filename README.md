@@ -189,7 +189,8 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/e00733f3-88ea-4f12-9121-65c69f8942af)
 
-![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/51f2c9ab-d7f0-442d-8038-03bb20eca6df)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/b1bca1b3-91ac-46eb-8a9a-a50371282889)
+
 
 
 # Avaliação Heurísticas do Bora Bora 
