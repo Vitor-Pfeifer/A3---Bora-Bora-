@@ -190,6 +190,11 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/ff80c9cb-f5bd-4f78-815e-0f7fcc4970f4)
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/b1bca1b3-91ac-46eb-8a9a-a50371282889)
 
+# System Usability Scale (SUS)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/6ed55d2d-5969-448b-b1f3-59390ba7b0d8)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/4cce752b-02d6-41b6-be78-b9036af73c22)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/92e2a876-587b-4c0d-ab7c-ce66b7a554b4)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/2d34d91f-4e7e-4277-bcda-12465f516e18)
 # Tecnologias Usadas
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
