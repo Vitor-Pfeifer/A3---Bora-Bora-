@@ -12,10 +12,10 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 * [Sobre](#sobre-o-projeto)
 * [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
+* [Tecnologias Usadas](#tecnologias-usadas)
 * [Personas](#personas)
 * [Cenarios](#cenários)
 * [Protótipos](#protótipos)
-* [Tecnologias Usadas](#tecnologias-usadas)
 
 
 # Requisitos Funcionais 
@@ -71,7 +71,10 @@ Permite aos usuários realizar transações financeiras seguras para pagamento d
 Notificações de Viagem:
 </h4>
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
-
+# Tecnologias Usadas
+- [Figma](https://figma.com/)
+- [Xtension](https://xtensio.com/user-persona-template/)
+  
 # Personas
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/5606316c-ebd4-46cf-9fe9-63ae102e8112)
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/79cac127-18dc-47d0-b85d-9475f58422e9)
@@ -195,7 +198,14 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/4cce752b-02d6-41b6-be78-b9036af73c22)
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/92e2a876-587b-4c0d-ab7c-ce66b7a554b4)
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/2d34d91f-4e7e-4277-bcda-12465f516e18)
-# Tecnologias Usadas
-- [Figma](https://figma.com/)
-- [Xtension](https://xtensio.com/user-persona-template/)
-  
+# Avaliação Avaliação Heurística do Bora Bora 
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/c2da7b5f-dab4-4026-8b6b-4833a0d0cf1d)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/bc2436da-8293-4d8b-bd93-2d0a1e47f52d)
+![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/251c3cd8-ebb5-4292-b319-271e2f2a7a38)
+
+
+
+
+
+
+
