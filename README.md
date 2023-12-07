@@ -71,6 +71,7 @@ Permite aos usuários realizar transações financeiras seguras para pagamento d
 Notificações de Viagem:
 </h4>
 Oferece aos usuários atualizações e lembretes sobre suas viagens, como horários de voo, datas de check-in, informações sobre acomodações reservadas, alertas sobre documentação necessária, entre outras informações importantes relacionadas à viagem.
+
 # Tecnologias Usadas
 - [Figma](https://figma.com/)
 - [Xtension](https://xtensio.com/user-persona-template/)
