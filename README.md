@@ -15,7 +15,7 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 * [Personas](#personas)
 * [Cenarios](#cenários)
 * [Protótipos](#protótipos)
-* [System Usability Scale (SUS)](#System-Usability-Scale-(SUS))
+* [System Usability Scale (SUS)](#System-Usability-Scale-SUS)
 * [Avaliação Avaliação Heurística do Bora Bora](#Avaliação-Avaliação-Heurística-do-Bora-Bora)
 
 
