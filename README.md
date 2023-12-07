@@ -10,12 +10,13 @@ Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
-* [Sumário](#índice/sumário)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Personas](#personas)
 * [Cenarios](#cenários)
 * [Protótipos](#protótipos)
+* [System Usability Scale (SUS)](#System-Usability-Scale (SUS))
+* [Avaliação Avaliação Heurística do Bora Bora](#Avaliação-Avaliação-Heurística-do-Bora-Bora)
 
 
 # Requisitos Funcionais 
