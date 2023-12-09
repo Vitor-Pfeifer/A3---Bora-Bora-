@@ -5,8 +5,8 @@ Projeto A3
 
 # Autores
 
-Alex dos Santos - 1292224609
-Bryan Felix Alves Weber - 1292223481
+<p>Alex dos Santos - 1292224609</p>
+<p>Bryan Felix Alves Weber - 1292223481</p>
 Chandler Schenckel Saldanha - 1292221254
 Igor Caminha Ramos - 1292224222
 Levi da Silva Jr - 1292224814​
