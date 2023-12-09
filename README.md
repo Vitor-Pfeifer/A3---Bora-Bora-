@@ -37,6 +37,7 @@ Continue explorando, continue descobrindo, continue viajando! 🌍✈️
 # Índice/Sumário
 
 * [Sobre](#sobre-o-projeto)
+* [Autores](#autores)
 * [Requisitos Funcionais](#requisitos-funcionais)
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Personas](#personas)
