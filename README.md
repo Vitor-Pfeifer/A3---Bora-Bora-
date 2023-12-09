@@ -43,8 +43,6 @@ Continue explorando, continue descobrindo, continue viajando! 🌍✈️
 * [Personas](#personas)
 * [Cenarios](#cenários)
 * [Protótipos](#prototipos)
-   - [Lo-Fi](#lo-fi)
-   - [Hi-Fi](#hi-fi)
 * [System Usability Scale (SUS)](#System-Usability-Scale-SUS)
 * [Avaliação Avaliação Heurística do Bora Bora](#Avaliação-Avaliação-Heurística-do-Bora-Bora)
 * [Video do Projeto](#video-do-projeto) 
