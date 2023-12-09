@@ -7,12 +7,12 @@ Projeto A3
 
 <p>Alex dos Santos - 1292224609</p>
 <p>Bryan Felix Alves Weber - 1292223481</p>
-Chandler Schenckel Saldanha - 1292221254
-Igor Caminha Ramos - 1292224222
-Levi da Silva Jr - 1292224814​
-Rhuryan Ricardo da Silva Abreu - 1292221839
-Thiago Barcelos - 1292221327​
-Vítor Pfeifer Silveira de Oliveira - 1292222187
+<p>Chandler Schenckel Saldanha - 1292221254</p>
+<p>Igor Caminha Ramos - 1292224222</p>
+<p>Levi da Silva Jr - 1292224814​</p>
+<p>Rhuryan Ricardo da Silva Abreu - 1292221839</p>
+<p>Thiago Barcelos - 1292221327​</p>
+<p>Vítor Pfeifer Silveira de Oliveira - 1292222187</p>
 
 # Sobre o Projeto
 
