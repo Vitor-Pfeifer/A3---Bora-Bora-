@@ -42,7 +42,7 @@ Continue explorando, continue descobrindo, continue viajando! 🌍✈️
 * [Tecnologias Usadas](#tecnologias-usadas)
 * [Personas](#personas)
 * [Cenarios](#cenários)
-* [Protótipos](#prototipos)
+* [Protótipos](#protótipos)
 * [System Usability Scale (SUS)](#System-Usability-Scale-SUS)
 * [Avaliação Avaliação Heurística do Bora Bora](#Avaliação-Avaliação-Heurística-do-Bora-Bora)
 * [Video do Projeto](#video-do-projeto) 
