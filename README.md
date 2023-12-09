@@ -14,9 +14,24 @@ Projeto A3
 <p>Thiago Barcelos - 1292221327​</p>
 <p>Vítor Pfeifer Silveira de Oliveira - 1292222187</p>
 
-# Sobre o Projeto
 
-Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o objetivo de facilitar a vida dos viajantes que desejam explorar destinos internacionais de forma mais conveniente e organizada. Nossa missão é proporcionar uma experiência de viagem excepcional aos usuários, ajudando-os a planejar, reservar e aproveitar ao máximo suas aventuras pelo mundo.
+### Sobre o Projeto
+
+Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o propósito apaixonante de facilitar a vida dos viajantes que desejam explorar destinos internacionais de maneira mais conveniente e organizada. Em um mundo onde as viagens representam oportunidades únicas de crescimento pessoal e cultural, nossa missão é ir além do convencional, oferecendo uma plataforma que vai muito além da simples reserva de passagens e acomodações.
+
+#### Nossa Motivação
+Acreditamos que cada jornada é uma história a ser contada, e cada destino é uma página a ser explorada. Inspirados por essa visão, decidimos criar um aplicativo que não apenas simplifica o processo logístico das viagens, mas também enriquece a experiência como um todo. Queremos transformar o ato de viajar em uma jornada única, onde os viajantes não apenas planejam suas aventuras, mas também descobrem e compartilham momentos inesquecíveis.
+
+#### Objetivos Principais
+1. **Facilitar o Planejamento:** Proporcionar aos usuários uma plataforma intuitiva que simplifica o planejamento de viagens, desde a escolha do destino até a reserva de passagens e acomodações.
+  
+2. **Enriquecer a Experiência:** Oferecer informações detalhadas sobre destinos, dicas locais e recursos personalizados para tornar cada viagem única e memorável.
+
+3. **Segurança e Confiabilidade:** Garantir a segurança e confiabilidade dos serviços oferecidos, especialmente nas transações financeiras, para que os usuários possam explorar o mundo com tranquilidade.
+
+Ao fazer parte do nosso projeto, você está contribuindo para a criação de uma comunidade global de viajantes conectados, compartilhando experiências e inspirando uns aos outros a explorar os limites do nosso extraordinário planeta. Estamos animados com a oportunidade de transformar suas viagens em jornadas verdadeiramente excepcionais. Junte-se a nós e faça parte dessa emocionante aventura pelo mundo!
+
+Continue explorando, continue descobrindo, continue viajando! 🌍✈️
 
 
 # Índice/Sumário
