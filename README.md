@@ -1,6 +1,6 @@
 # A3---Bora-Bora-
 Projeto A3 
-# Bora Bora Viagens
+# Bora Bora 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147009537/72251c50-c738-4e60-b18b-f310b3749cb0)
 # Sobre o Projeto
 
@@ -205,7 +205,8 @@ Ana ativa as notificações de viagem para se manter informada sobre datas impor
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/bc2436da-8293-4d8b-bd93-2d0a1e47f52d)
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/251c3cd8-ebb5-4292-b319-271e2f2a7a38)
 
-
+# Video do Projeto 
+https://youtu.be/dIL_cxOb0UI
 
 
 
