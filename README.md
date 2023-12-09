@@ -2,6 +2,18 @@
 Projeto A3 
 # Bora Bora 
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147009537/72251c50-c738-4e60-b18b-f310b3749cb0)
+
+# Autores
+
+Alex dos Santos - 1292224609
+Bryan Felix Alves Weber - 1292223481
+Chandler Schenckel Saldanha - 1292221254
+Igor Caminha Ramos - 1292224222
+Levi da Silva Jr - 1292224814​
+Rhuryan Ricardo da Silva Abreu - 1292221839
+Thiago Barcelos - 1292221327​
+Vítor Pfeifer Silveira de Oliveira - 1292222187
+
 # Sobre o Projeto
 
 Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o objetivo de facilitar a vida dos viajantes que desejam explorar destinos internacionais de forma mais conveniente e organizada. Nossa missão é proporcionar uma experiência de viagem excepcional aos usuários, ajudando-os a planejar, reservar e aproveitar ao máximo suas aventuras pelo mundo.
