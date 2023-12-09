@@ -104,7 +104,10 @@ Oferece aos usuários atualizações e lembretes sobre suas viagens, como horár
 
 # Tecnologias Usadas
 - [Figma](https://figma.com/)
+  Utilizamos o Figma como nossa ferramenta principal para a criação de protótipos de Alta Fidelidade (Hi-Fi). O Figma oferece uma plataforma colaborativa e intuitiva que facilita a elaboração e o refinamento de designs, permitindo uma visualização precisa de como será a experiência do usuário final.
 - [Xtension](https://xtensio.com/user-persona-template/)
+  Optamos pela Xtension para criar personas de usuários de forma eficiente. A Xtension oferece recursos versáteis que nos permitiram modelar personas detalhadas, proporcionando insights valiosos sobre as necessidades, comportamentos e expectativas dos usuários, fundamentais para o desenvolvimento centrado no usuário.
+  <p>Essas escolhas refletem nosso compromisso em utilizar ferramentas especializadas para cada fase do projeto, desde a visualização inicial até a compreensão aprofundada das personas, garantindo assim uma abordagem abrangente e eficaz no desenvolvimento do aplicativo.<p/>
   
 # Personas
 ![Capa do Projeto](https://github.com/Vitor-Pfeifer/A3---Bora-Bora-/assets/147276592/5606316c-ebd4-46cf-9fe9-63ae102e8112)
