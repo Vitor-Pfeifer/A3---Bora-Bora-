@@ -15,7 +15,7 @@ Projeto A3
 <p>Vítor Pfeifer Silveira de Oliveira - 1292222187</p>
 
 
-# Sobre
+# Sobre o Projeto
 
 Bem-vindo ao projeto do Aplicativo de Viagens Internacionais! Este é um projeto open-source criado com o propósito apaixonante de facilitar a vida dos viajantes que desejam explorar destinos internacionais de maneira mais conveniente e organizada. Em um mundo onde as viagens representam oportunidades únicas de crescimento pessoal e cultural, nossa missão é ir além do convencional, oferecendo uma plataforma que vai muito além da simples reserva de passagens e acomodações.
 
